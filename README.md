@@ -1,1 +1,1 @@
-# First Rust Proyect
+# First Rust Project
